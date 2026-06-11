@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Syahid Izzulhaq - Personal Website"
+title: "Welcome to My Website!"
 author_profile: true
 redirect_from: 
   - /about/
