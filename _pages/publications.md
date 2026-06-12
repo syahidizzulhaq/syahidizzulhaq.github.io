@@ -46,12 +46,12 @@ Co-authored with Erizal Jamal. <br>
 **The Political Economy of Clientelism: When Inequality Favors the Elites**<br>
 *Research Square, 2023*<br>
 Co-authored with Akhmad S. Kurnia.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/clientelism) | [**PDF**](/files/clientelism.pdf)
+[**PDF**](/files/clientelism.pdf)
 
 **The Effectiveness of Futures-based Foreign Exchange Intervention: Comparative Studies of Brazil and India**<br>
 *MPRA Paper 104709, 2020*<br>
 Co-authored with Ferry Syarifuddin.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/FX-futures) | [**PDF**](/files/FX-futures.pdf)
+[**PDF**](/files/FX-futures.pdf)
 
 ## Thesis
 **Petroleum Subsidy Reform According to HANK: Case of Indonesia**<br>
