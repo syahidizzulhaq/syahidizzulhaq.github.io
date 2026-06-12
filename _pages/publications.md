@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Articles
 
-1. [Petroleum Subsidy Reform According to HANK: Case of Indonesia](https://syahidizzulhaq.github.io/publication/petroleum-subsidies)
+[**Petroleum Subsidy Reform According to HANK: Case of Indonesia**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies)
 
 {% include base_path %}
 
