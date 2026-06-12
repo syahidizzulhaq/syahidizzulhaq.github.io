@@ -3,7 +3,7 @@ title: "Central Bank Digital Currency, Monetary Policy, and Macroeconomy: Eviden
 collection: publications
 category: manuscripts
 permalink: /publication/cbdc-indonesia
-date: 2024
+date: 01-05-2024
 venue: 'Bulletin of Monetary Economics and Banking'
 paperurl: '/files/cbdc-indonesia'
 ---
