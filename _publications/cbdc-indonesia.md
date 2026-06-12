@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/cbdc-indonesia
 date: 01-05-2024
 venue: 'Bulletin of Monetary Economics and Banking'
-paperurl: '/files/cbdc-indonesia.pdf'
 ---
 
 ## Abstract
@@ -15,3 +14,5 @@ regime significantly improves macroeconomic stability in Indonesia. In this rega
 
 **Keywords:** Central bank digital currency; Monetary policy; Macroeconomy; Indonesia.<br>
 **JEL Classifications:** E12; E42; E52; E58.
+
+[Download here](/files/cbdc-indonesia.pdf)
