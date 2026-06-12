@@ -17,11 +17,6 @@ Supervised by Associate Professor [Chung Tran](https://sites.google.com/site/chu
 
 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 
 
