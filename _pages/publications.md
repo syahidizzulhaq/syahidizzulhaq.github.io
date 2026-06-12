@@ -14,7 +14,7 @@ Co-authored with Akhmad S. Kurnia and Johan B. Maharda.<br>
 **Incumbents' Behavior and Strategic Interactions Among Local Governments: The Case of Indonesia**<br>
 *Jurnal Ilmu Social dan Ilmu Politik, 2022*<br>
 Co-authored with Akhmad S. Kurnia and Sandy J. Maulana.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/yardstik) | [**PDF**](/files/yardstick.pdf)
+[**Abstract**](https://syahidizzulhaq.github.io/publication/yardstick) | [**PDF**](/files/yardstick.pdf)
 
 **The Credibility of Monetary Policy and Procyclical Fiscal Policy**<br>
 *Applied Economics and Finance, 2022*<br>
