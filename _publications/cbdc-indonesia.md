@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Central Bank Digital Currency, Monetary Policy, and Macroeconomy: Evidence from Indonesia"
 collection: publications
 category: manuscripts
 permalink: /publication/cbdc-indonesia
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2024
+venue: 'Bulletin of Monetary Economics and Banking'
+paperurl: 'https://academicpages.github.io/files/cbdc-indonesia.pdf'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+## Abstract
+This paper studies the impact of a universally accessible interest-bearing Central Bank Digital Currency (CBDC) on macroeconomic stability and monetary policy in 
+Indonesia. We construct a simple reduced-form New Keynesian model calibrated with monthly data for Indonesia from July 2005 to February 2022. We find that the CBDC 
+regime significantly improves macroeconomic stability in Indonesia. In this regard, the CBDC rate, as an additional monetary policy instrument, responsively reacts to macroeconomic fluctuations and significantly impacts the demand side. Our results also suggest that monetary policy is more effective under the CBDC regime than under the non-CBDC.
+
+**Keywords:** Central bank digital currency; Monetary policy; Macroeconomy; Indonesia.
+**JEL Classifications:** E12; E42; E52; E58.
