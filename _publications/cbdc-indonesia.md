@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/cbdc-indonesia
 date: 2024
 venue: 'Bulletin of Monetary Economics and Banking'
+paperurl: '/files/cbdc-indonesia'
 ---
 
 ## Abstract
