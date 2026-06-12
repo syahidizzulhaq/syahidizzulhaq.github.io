@@ -9,27 +9,27 @@ author_profile: true
 **Central Bank Digital Currency, Monetary Policy, and Macroeconomy: Evidence from Indonesia**<br>
 *Bulletin of Monetary Economics and Banking, 2024*<br>
 Co-authored with Akhmad S. Kurnia and Johan B. Maharda.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies) | [**PDF**](/files/petroleum-subsidies.pdf)
+[**Abstract**](https://syahidizzulhaq.github.io/publication/cbdc-indonesia) | [**PDF**](/files/cbdc-indonesia.pdf)
 
 **Incumbents' Behavior and Strategic Interactions Among Local Governments: The Case of Indonesia**<br>
 *Jurnal Ilmu Social dan Ilmu Politik, 2022*<br>
 Co-authored with Akhmad S. Kurnia and Sandy J. Maulana.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies) | [**PDF**](/files/petroleum-subsidies.pdf)
+[**Abstract**](https://syahidizzulhaq.github.io/publication/yardstik) | [**PDF**](/files/yardstick.pdf)
 
 **The Credibility of Monetary Policy and Procyclical Fiscal Policy**<br>
 *Applied Economics and Finance, 2022*<br>
 Co-authored with Akhmad S. Kurnia.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies) | [**PDF**](/files/petroleum-subsidies.pdf)
+[**Abstract**](https://syahidizzulhaq.github.io/publication/monetary-credibility) | [**PDF**](/files/monetary-credibility.pdf)
 
 **Inflation and Financial Stability Trade‐off: Role of Monetary Policy Credibility and Fiscal Cyclicality**<br>
 *Economic Papers: A journal of applied economics and policy, 2022*<br>
 Co-authored with Akhmad S. Kurnia and Johan B. Maharda.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies) | [**PDF**](/files/petroleum-subsidies.pdf)
+[**Abstract**](https://syahidizzulhaq.github.io/publication/inflation-tradeoff) | [**PDF**](/files/inflation-tradeoff.pdf)
 
 **Gross Capital Inflows in Indonesia: Exploring Bonanzas and Sudden Stops**<br>
 *Institutions and Economies, 2021*<br>
 Co-authored with M. R. Taufikurahman, A. Hudaya, and M. R. Akbar.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies) | [**PDF**](/files/petroleum-subsidies.pdf)
+[**Abstract**](https://syahidizzulhaq.github.io/publication/bonanzas) | [**PDF**](/files/bonanzas.pdf)
 
 ## Book Chapters
 **What do we know about the future of the agrifood system in Indonesia?** <br>
@@ -46,12 +46,12 @@ Co-authored with Erizal Jamal. <br>
 **The Political Economy of Clientelism: When Inequality Favors the Elites**<br>
 *Research Square, 2023*<br>
 Co-authored with Akhmad S. Kurnia.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies) | [**PDF**](/files/petroleum-subsidies.pdf)
+[**Abstract**](https://syahidizzulhaq.github.io/publication/clientelism) | [**PDF**](/files/clientelism.pdf)
 
 **The Effectiveness of Futures-based Foreign Exchange Intervention: Comparative Studies of Brazil and India**<br>
 *MPRA Paper 104709, 2020*<br>
 Co-authored with Ferry Syarifuddin.<br>
-[**Abstract**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies) | [**PDF**](/files/petroleum-subsidies.pdf)
+[**Abstract**](https://syahidizzulhaq.github.io/publication/FX-futures) | [**PDF**](/files/FX-futures.pdf)
 
 ## Thesis
 **Petroleum Subsidy Reform According to HANK: Case of Indonesia**<br>
@@ -62,11 +62,11 @@ Supervised by Associate Professor [Chung Tran](https://sites.google.com/site/chu
 ## Other 
 **Ketika Kebijakan Fiscal Agresif (Prosiklikal) Mereduksi Kredibilitas Kebijakan Moneter**<br>
 *Personal Writing, 2018*<br>
-[**PDF**](/files/petroleum-subsidies.pdf)
+[**PDF**](/files/fiscal-dominance-CMBS.pdf)
 
 **Ekonomi Politik dan Rasionalisasi Responsivitas Kebijakan Pemerintah: Covid-19 di Indonesia**<br>
 *Personal Writing, 2020*<br>
-[**PDF**](/files/petroleum-subsidies.pdf)
+[**PDF**](/files/politics-covid.pdf)
 
 
 
