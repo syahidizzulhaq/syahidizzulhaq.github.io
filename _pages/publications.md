@@ -8,8 +8,12 @@ author_profile: true
 ## Research Articles
 
 [**Petroleum Subsidy Reform According to HANK: Case of Indonesia**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies)
+
 *ANU Advanced Research Essay (Thesis), 2026*
+
 Supervised by Associate Professor [Chung Tran](https://sites.google.com/site/chungqtran/home)
+
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
