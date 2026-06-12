@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/cbdc-indonesia
 date: 2024
 venue: 'Bulletin of Monetary Economics and Banking'
-paperurl: 'https://academicpages.github.io/files/cbdc-indonesia.pdf'
+paperurl: 'https://syahidizzulhaq.github.io/files/cbdc-indonesia.pdf'
 ---
 
 ## Abstract
