@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+I view research as an integral part of learning. My research primarily focuses on *macroeconomics, agricultural economics, labor economics, and public economics.* I have published several papers in reputable journals including *Economic Papers* and *Bulletin of Monetary Economics and Banking.* Beyond those publications, I also have a number of projects in *hiatus* after facing many rejections 😁. However, I enjoy the process! I learn a lot during the process.   
+
+Richard Feynman:
+> *"I don't know anything, but I do know that everything is interesting if you go into it deeply enough."*
+
 ## Peer-reviewed Articles
 **Central Bank Digital Currency, Monetary Policy, and Macroeconomy: Evidence from Indonesia**<br>
 *Bulletin of Monetary Economics and Banking, 2024*<br>
