@@ -2,7 +2,7 @@
 layout: archive
 title: "Academic Materials"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 This page is actually my academic reflection since undergraduate. For me, personally, studying economics 
