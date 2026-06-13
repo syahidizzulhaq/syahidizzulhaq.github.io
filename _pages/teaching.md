@@ -11,5 +11,5 @@ Through this page, I would like to share some of the ideas, tools, and concepts 
 
 **Notes:** I am sharing these materials not because I am smart. In fact, this is my way of studying! 🤓
 
-> 🛠️ This page is underconstruction. 
+> 🛠️ This page is under construction. 
 
