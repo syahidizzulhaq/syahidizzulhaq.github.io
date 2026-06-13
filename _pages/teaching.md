@@ -5,13 +5,11 @@ permalink: /teaching/
 author_profile: false
 ---
 
-This page is actually my academic reflection since undergraduate. For me, personally, studying economics 
-abroad could be very difficult primarily because of the huge gap between frontier 
-teaching standard and the economic foundation I studied in Indonesia during my undergraduate. For instance, I found it very hard to catch up with 
-**mathematical techniques** used in the current standard of economics.  
-Therefore, I want to share some concepts I think will be extremely useful for us. 
+This page serves as a collection of my academic reflections since my undergraduate years. Studying economics abroad has been both rewarding and challenging, largely because of the huge gap between the frontier standards of economic training and the foundation I received during my undergraduate studies in Indonesia. For instance, I initially struggled to keep pace with the **mathematical techniques** that are now standard in modern economics.
 
-**Notes:** I am sharing these materials not because I am smart. In fact, this is a way of me studying! 🤓
+Through this page, I would like to share some of the ideas, tools, and concepts that I have found especially useful in my own learning journey. I hope they may also be helpful to other students navigating a similar path.
+
+**Notes:** I am sharing these materials not because I am smart. In fact, this is my way of studying! 🤓
 
 > 🛠️ This page is underconstruction. 
 
