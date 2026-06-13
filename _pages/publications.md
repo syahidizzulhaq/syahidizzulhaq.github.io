@@ -65,7 +65,15 @@ Supervised by Associate Professor [Chung Tran](https://sites.google.com/site/chu
 [**Abstract**](https://syahidizzulhaq.github.io/publication/petroleum-subsidies) | [**PDF**](/files/petroleum-subsidies.pdf) | [**Slides**](/files/petroleum-subsidies-slides.pdf)
 
 ## Other 
-**Ketika Kebijakan Fiscal Agresif (Prosiklikal) Mereduksi Kredibilitas Kebijakan Moneter**<br>
+**Why Robots are Untaxed?**<br>
+*Course Assignment, ECON8001 Topics in Macroeconomics, 2026*<br>
+[**PDF**](/files/robot-tax.pdf)
+
+**Heterogeneous Consequences of Educational Mismatch: Evidence from Indonesia**<br>
+*Course Assignment, ECON8002 Case Studies in Applied Economic Analysis and Econometrics, 2026*<br>
+[**PDF**](/files/education-mismatch.pdf)
+
+**Ketika Kebijakan Fiskal Agresif (Prosiklikal) Mereduksi Kredibilitas Kebijakan Moneter**<br>
 *Personal Writing, 2018*<br>
 [**PDF**](/files/fiscal-dominance-CMBS.pdf)
 
