@@ -2,7 +2,7 @@
 layout: archive
 title: "Academic Materials"
 permalink: /teaching/
-author_profile: false
+author_profile: true
 ---
 
 This page serves as a collection of my academic reflections since my undergraduate years. Studying economics abroad has been both rewarding and challenging, largely because of the huge gap between the frontier standards of economic training and the foundation I received during my undergraduate studies in Indonesia. For instance, I initially struggled to keep pace with the **mathematical techniques** that are now standard in modern economics.
